@@ -3,7 +3,10 @@
 ## Contact
 <div>
   <a href="https://www.linkedin.com/in/dannystoyanoff/">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" style="filter: invert(1)" />
+  </a>
+  <a href="mailto:dannystoyanoff@gmail.com" style="margin-left: 8px">
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" style="filter: invert(1)" />
   </a>
 </div>
 
